@@ -1,6 +1,6 @@
 # vintage-x86-assembly
 
-Happy 2201010001! :)
+Happy 2201010001! :))
 
 This is a vintage assembly tutorial series for 32-bit windows environment ❤
 
